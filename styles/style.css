@@ -1,3 +1,6 @@
+body{
+  font-family:'Poppins', sans-serif ;
+}
 .e-skill-top-name{
   color:#4A4A4A;
   font-family: 'Poppins', sans-serif;
@@ -10,4 +13,9 @@
 
 .e-skill-register-btn{
   font-family: 'Poppins', sans-serif;
+}
+
+.button-bg{
+  background-color: rgb(247, 14, 53);
+  color: white;
 }
