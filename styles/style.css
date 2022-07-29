@@ -23,3 +23,7 @@ body{
 .e-skill-popular-course{
   color:#1D1D1D;
 }
+
+.e-skill-container{
+  height: 250px;
+}
